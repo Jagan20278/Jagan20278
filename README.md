@@ -152,13 +152,3 @@ Final-year Computer Science student at **Vellore Institute of Technology, AP** (
 </tr>
 </table>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jagan20278&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagan20278&layout=compact&theme=radical" />
-</p>
-
----
