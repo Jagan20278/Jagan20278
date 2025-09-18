@@ -26,41 +26,41 @@ Final-year Computer Science student at **Vellore Institute of Technology, AP** .
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="icon" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="icon" width="65" height="65" />
       <br>Express.js
     </td>
      <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="icon" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="icon" width="65" height="65" />
         <br>Git
     </td>
     <td align="center"  width="96">
