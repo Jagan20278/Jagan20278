@@ -12,7 +12,7 @@
 
 ### 🚀 Software Engineer | Cybersecurity Enthusiast | AWS Certified Cloud Practitioner
 
-Final-year Computer Science student at **Vellore Institute of Technology, AP** (GPA: **9.01**). I am passionate about building scalable, secure, and efficient applications. My experience spans full-stack development, cloud infrastructure on AWS, and developing AI-based detection models.
+Final-year Computer Science student at **Vellore Institute of Technology, AP** . I am passionate about building scalable, secure, and efficient applications. My experience spans full-stack development, cloud infrastructure on AWS, and developing AI-based detection models.
 
 - 🔭 I’m currently working on enhancing my skills in containerization with Docker and Kubernetes.
 - 🌱 I’m currently learning about advanced penetration testing techniques.
